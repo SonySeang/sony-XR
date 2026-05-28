@@ -1,0 +1,13 @@
+Library/
+Logs/
+UserSettings/
+Temp/
+obj/
+.utmp/
+.vscode/
+*.apk
+*BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*.csproj
+*.slnx
+*.sln
